@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+output/summary_report.json
+output/summary_report.txt
+.env

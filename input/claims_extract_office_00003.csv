@@ -1,0 +1,21 @@
+claims_office,claim_type,claim_status,claims_processed,claims_payout_amount
+Southeast,Bodily Injury,Closed,9,52779.15
+Central,Workers Comp,Closed,5,46405.97
+West,Liability,Closed,15,49204.34
+West,Bodily Injury,Closed,31,194011.99
+Southeast,Property,Under Review,34,209238.8
+Northeast,Auto,Under Review,49,704801.67
+Northeast,Liability,Open,18,132387.51
+West,Workers Comp,Denied,47,569319.33
+West,Property,Approved,7,7142.49
+West,Property,Approved,44,300271.27
+Midwest,Workers Comp,Closed,25,220583.24
+Central,Bodily Injury,Denied,38,147044.95
+Midwest,Auto,Approved,39,399105.19
+Southeast,Liability,Closed,37,323826.18
+Southeast,Bodily Injury,Approved,19,43781.8
+West,Workers Comp,Open,23,278498.54
+West,Property,Open,19,127177.56
+West,Auto,Open,39,367018.14
+Northeast,Workers Comp,Closed,22,186721.61
+Midwest,Bodily Injury,Under Review,3,14970.65
