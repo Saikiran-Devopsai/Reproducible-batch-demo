@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Claims Batch Processor — Reproducible Execution with Docker + Jenkins
 
 A containerized batch job that consolidates **thousands of synthetic
@@ -131,3 +132,7 @@ In an interview, this project lets you talk concretely about *why* you made each
 ## License
 
 MIT
+=======
+# Reproducible-batch-demo
+A containerized batch job that consolidates **thousands of synthetic insurance claims-extract CSVs** into a summary report — runnable identically on a local machine or through a Jenkins pipeline. Built to demonstrate Docker's **"reproducible execution"** pattern
+>>>>>>> e33dc2e3bce262df33670d9d75b4c07fa55dbe5a
