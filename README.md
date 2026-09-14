@@ -21,7 +21,7 @@ pattern matters. Regional claims offices generate daily/nightly
 extracts covering claim status, payout amounts, and volumes — at real
 scale that's easily thousands of files across offices and lines of
 business (auto, property, liability, workers comp). Platforms in this
-space (for example, DXC's Assure Claims, a commercial claims-management
+space (for example, a commercial claims-management
 platform) exist precisely to bring that kind of fragmented,
 multi-system claims data together into one consolidated view — from
 first notice of loss through payout.
