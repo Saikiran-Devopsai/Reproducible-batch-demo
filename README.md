@@ -27,7 +27,7 @@ multi-system claims data together into one consolidated view — from
 first notice of loss through payout.
 
 This project models the **operational pattern** behind that kind of
-consolidation step — not the platform itself, and not any of DXC's
+consolidation step — not the platform itself, and not any of 
 actual code, architecture, or data. It's a generic, safe-to-publish
 illustration of "many extract files in, one consolidated report out,"
 built the way a DevOps engineer would actually containerize and
